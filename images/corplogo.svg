@@ -5,14 +5,6 @@
             <stop offset="50%" style="stop-color:#6B8169;stop-opacity:1" />
             <stop offset="100%" style="stop-color:#465B73;stop-opacity:1" />
         </linearGradient>
-        <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-            <stop offset="0%" style="stop-color:#213756;stop-opacity:0.92" />
-            <stop offset="35%" style="stop-color:#213756;stop-opacity:0.92" />
-            <stop offset="48%" style="stop-color:#264161;stop-opacity:0.90" />
-            <stop offset="52%" style="stop-color:#264161;stop-opacity:0.90" />
-            <stop offset="65%" style="stop-color:#213756;stop-opacity:0.92" />
-            <stop offset="100%" style="stop-color:#213756;stop-opacity:0.92" />
-        </linearGradient>
         <linearGradient id="silverGradient" x1="0%" y1="0%" x2="100%" y2="100%">
             <stop offset="0%" style="stop-color:#E8E8E8;stop-opacity:0.9" />
             <stop offset="45%" style="stop-color:#C0C0C0;stop-opacity:0.9" />
@@ -58,7 +50,7 @@
           font-size="37" 
           font-weight="300" 
           letter-spacing="0.3" 
-          fill="url(#textGradient)">PebbleWorks</text>
+          fill="#213756">PebbleWorks</text>
     
     <!-- Tagline -->
     <text x="118" y="83" 
